@@ -7,3 +7,6 @@ Possui todos os relacionamentos de tabelas existententes com @OneToOne,OneToMany
 de pedido com produto, sendo ambas chaves composta de uma tabela associativa que o jpa faz
 E não menos importante, todas as camadas, repository, service e controller, possuem 100% de corbertura de testes
 Foi muito divertido esse desafio ^^.
+
+NOTA: Para acessar a doc da api, basta copiar o que está dentro do apivendas.yaml e colar no editor de texto do Swagger Editor
+link de ref: https://editor.swagger.io/
